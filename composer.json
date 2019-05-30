@@ -1,0 +1,12 @@
+{
+    "name": "hit-n-forget",
+    "description": "Async call to http endpoint and forget (no waiting for response)",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "HitNForget\\": "src/"
+        }
+    }
+}

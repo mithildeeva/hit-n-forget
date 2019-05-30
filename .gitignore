@@ -1,0 +1,11 @@
+*.lock
+*.log
+
+### VS Code ###
+.vscode/
+
+### IntelliJ IDEA ###
+.idea
+
+### Composer ###
+vendor
